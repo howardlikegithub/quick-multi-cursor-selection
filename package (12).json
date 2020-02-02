@@ -1,0 +1,26 @@
+{
+  "name": "phoenix3008.stylus-autocompile",
+  "title": "Stylus Auto Compile",
+  "version": "1.0.1",
+  "description": "Extension for Brackets - autocompile stylus files into css",
+  "homepage": "https://github.com/phoenix3008/stylus-autocompile",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phoenix3008/stylus-autocompile.git"
+  },
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "stylus",
+    "compile",
+    "brackets",
+    "extension"
+  ],
+  "author": "Serghei Grigoruta <phoenix92@inbox.ru> (https://github.com/phoenix3008)",
+  "license": "MIT",
+  "engines": {
+    "brackets": ">=0.30.0"
+  }
+}
