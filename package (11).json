@@ -1,0 +1,12 @@
+{
+    "name": "quick-multi-cursor-selection",
+    "title": "Quick multi-cursor selection",
+    "description": "Sublime's quick text selection of next matching text (ctrl + D) implemented in brackets",
+    "homepage": "https://github.com/louiealmeda/multiple-cursor-select",
+    "version": "0.0.4",
+    "author": "Louie Almeda (https://github.com/louiealmeda)",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.36.0"
+    }
+}
